@@ -38,6 +38,22 @@ Through this assignment, not only did I learn to seamlessly merge two images int
 6. **Generate Panoramas**: 
     - Perfected the panorama by removing any artifacts and seamlessly merging the images.
 
+## Visualization ## 
+
+Image 1:
+
+![l](C:\Computer vision projects\Panorama-Auto-Stitching\l.png)
+
+Image 2 :
+
+![r](C:\Computer vision projects\Panorama-Auto-Stitching\r.jpg)
+
+
+
+Panoramic Image:
+
+![pano](C:\Computer vision projects\Panorama-Auto-Stitching\pano.png)
+
 ## Insights & Takeaways
 
 - Developed a profound understanding of image homography and the intricate steps in merging two images.

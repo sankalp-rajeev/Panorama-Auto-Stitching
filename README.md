@@ -42,17 +42,15 @@ Through this assignment, not only did I learn to seamlessly merge two images int
 
 Image 1:
 
-![l](C:\Computer vision projects\Panorama-Auto-Stitching\l.png)
+<img width="827" alt="l" src="https://github.com/sankalp-rajeev/Panorama-Auto-Stitching/assets/81537336/f3ce21ef-1cc3-4f63-a120-39854d05faf6">
 
 Image 2 :
 
-![r](C:\Computer vision projects\Panorama-Auto-Stitching\r.jpg)
-
-
+![r](https://github.com/sankalp-rajeev/Panorama-Auto-Stitching/assets/81537336/4ea8445a-10f7-4be2-bebf-61402c1ae727)
 
 Panoramic Image:
 
-![pano](C:\Computer vision projects\Panorama-Auto-Stitching\pano.png)
+![pano](https://github.com/sankalp-rajeev/Panorama-Auto-Stitching/assets/81537336/5ca21e3a-ce31-4270-9051-551cadb87246)
 
 ## Insights & Takeaways
 
